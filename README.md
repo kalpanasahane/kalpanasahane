@@ -2,17 +2,13 @@
 
 <h3 align="center">Aspiring Data Scientist</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=5BCDEC&center=true&vCenter=true&width=450&lines=Python+%7C+SQL+%7C+Power+BI;Learning+Data+Science;Building+Projects" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
 
 - 📊 Learning Data Science
 - 🐍 Python | SQL | Power BI
-- 📈 Interested in Analytics & ML
+- 📈 Interested in Analytics & Machine Learning
 - 🚀 Building projects regularly
 
 ---
