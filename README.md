@@ -56,3 +56,20 @@ This repository showcases end-to-end projects using tools like Excel, SQL, Power
 
  <img width="835" height="458" alt="dashboard" src="https://github.com/user-attachments/assets/4fc3b78e-0be9-49ae-b3c2-6b236b0ced27" />
 
+ ------------------------------------------------------------------------------------------------------------------------
+
+ 6. [e-commerce customer retention analysis](https://github.com/kalpanasahane/ecommerce-customer-retention-analysis)
+    This project analyzes real e-commerce order data to find out who a business's best customers are and how well it keeps them over time. Using RFM (Recency, Frequency, Monetary) segmentation and cohort retention analysis, it found that 97% of customers buy only once and retention drops below 1% within a month — but the few repeat customers spend 5x more on average. The analysis recommends focusing on getting customers to buy a second time within their first 30 days, rather than just acquiring new customers.
+
+<img width="1103" height="855" alt="cohort_retention_heatmap" src="https://github.com/user-attachments/assets/355772e2-4d65-4573-b392-f1fb684570b7" />
+
+
+<img width="790" height="490" alt="segment_customer_count" src="https://github.com/user-attachments/assets/15effff3-dd1f-4384-8848-acbf5e216a67" />
+
+
+<img width="790" height="490" alt="segment_revenue" src="https://github.com/user-attachments/assets/14a1ae5f-426b-43af-9fc2-4250fb94efa5" />
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+
